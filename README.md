@@ -47,9 +47,10 @@
 
 ## Imagens do Layout da Aplicação
 
-<img src="https://github.com/EdgardOliveira/RMIServer/blob/main/imagens/recibo.png" alt="app"  height="800" width="600">
+<img src="https://github.com/EdgardOliveira/RMIServer/blob/main/imagens/console.png" alt="console"  height="600" width="800">
 
-<img src="https://github.com/EdgardOliveira/RMIServer/blob/main/imagens/console.png" alt="login"  height="800" width="600">
+<img src="https://github.com/EdgardOliveira/RMIServer/blob/main/imagens/recibo.png" alt="recibo no cliente"  height="600" width="800">
+
 
 ## Pré-requisitos
 
